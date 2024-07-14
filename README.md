@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing a Full Stack Flutter Application for College<br>👯 I’m looking for a job as flutter developer <br>🤝 I’m looking for help with Competitive Coding with Java<br>🌱 I’m currently learning Competitive Coding with Java &  Development with flutter<br>💬 Ask me about Web Development and coding<br>⚡ Fun fact - I can win gold in laziness
+🔭 I’m currently learning AWS Cloud Architecture<br>👯 I’m looking for a job as Software Developer <br>🤝 I’m looking for help with Competitive Coding with Java<br>🌱 I’m currently learning Competitive Coding with Java &  Development with Flutter<br>💬 Ask me about App Development and coding<br>⚡ Fun fact - I can win gold in laziness
 
 
 ## 🌐 Socials:
